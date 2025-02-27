@@ -2,13 +2,13 @@
 Scattering solutions for different potential models of K-K interactions, sqeezed in magnetic field B = 56.337 G
 - fortran, gnuplot & python codes/scripts
 
-0. Testing as, re
+0. Testing scattering length (as) and effective range (re)
 ./test/
 
 1. Scattering solutions
 ./Uo_*.f -> ./Uo/B56.337G_*
 
-2. Plotting solutions and fitting scattering length
+2. Plotting solutions and fitting scattering length as
 ./Uo/B56.337G_*_fit.plt
 
 3. Scaling and derivative calculation
