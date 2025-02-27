@@ -1,4 +1,4 @@
-# scattering-BBdrops
+# Short-range pair corelations and scattering parameters for Bos-Bose drops interacions (K-K)
 Scattering solutions for different potential models of K-K interactions, sqeezed in magnetic field B = 56.337 G
 - fortran, gnuplot & python codes/scripts
 
