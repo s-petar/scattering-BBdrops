@@ -11,7 +11,7 @@ Scattering solutions for different potential models of K-K interactions, sqeezed
 2. Plotting solutions and fitting scattering length as
 ./Uo/B56.337G_*_fit.plt
 
-3. Scaling and derivative calculation
+3. Extraction, scaling and derivative calculation of radial wave function F(r)
 ./Uo_wF.f -> ./U0/wF_B56.337G_*.txt (r,F,F'/F,F''/F)
 
 4. Fitting scaled solutions
